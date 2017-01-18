@@ -12,7 +12,7 @@ const a = uint8(255)
 func init() {
 	// Data parsed from rgb_combined_v05.csv at:
 	// https://github.com/ayushoriginal/Optimized-RGB-To-ColorName
-	data = Palette{
+	Palette{
 		{color.RGBA{0x34, 0x98, 0xdb, a}, []string{"Material Flat Peterriver"}},
 		{color.RGBA{0x41, 0x0, 0x93, a}, []string{"Yahoo"}},
 		{color.RGBA{0x0, 0x23, 0x9c, a}, []string{"Pantone Dark Blue C"}},
@@ -2803,5 +2803,5 @@ func init() {
 		{color.RGBA{0x6b, 0x6b, 0x6b, a}, []string{"gray42"}},
 		{color.RGBA{0x77, 0x51, 0x35, a}, []string{"Pantone 7568 C"}},
 		{color.RGBA{0x91, 0xa3, 0x95, a}, []string{"Green FS 24410"}},
-	}
+	}.Load()
 }
