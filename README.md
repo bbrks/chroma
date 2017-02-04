@@ -1,4 +1,4 @@
-# chroma [![Build Status](https://travis-ci.org/bbrks/chroma.svg)](https://travis-ci.org/bbrks/chroma) [![Go Report Card](https://goreportcard.com/badge/github.com/bbrks/chroma)](https://goreportcard.com/report/github.com/bbrks/chroma) [![GoDoc](https://godoc.org/github.com/bbrks/chroma?status.svg)](https://godoc.org/github.com/bbrks/chroma)
+# chroma [![Build Status](https://travis-ci.org/bbrks/chroma.svg)](https://travis-ci.org/bbrks/chroma) [![GoDoc](https://godoc.org/github.com/bbrks/chroma?status.svg)](https://godoc.org/github.com/bbrks/chroma) [![Go Report Card](https://goreportcard.com/badge/github.com/bbrks/chroma)](https://goreportcard.com/report/github.com/bbrks/chroma) [![GitHub tag](https://img.shields.io/github/tag/bbrks/chroma.svg)](https://github.com/bbrks/chroma/releases) [![license](https://img.shields.io/github/license/bbrks/chroma.svg)](https://github.com/bbrks/chroma/blob/master/LICENSE)
 
 Find names of ~2800 colors from a Go package.
 
